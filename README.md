@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses</h1>
 <h3 align="center">I am passionate about robotics and AI.</h3>
 
-- 📫 How to reach me **jaguary35@gmail.com**
+📫 mailbox: <a href="mailto:jaguary35@gmail.com">You can reach me out here!</a>  </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
