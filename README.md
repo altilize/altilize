@@ -28,7 +28,7 @@ if __name__ == '__main__':
 |---|---|---|
 | [Waste Sorting Robot (firmware)](https://github.com/altilize/Waste-Sorting-Robot-Microcontroller) | Omni-wheel robot firmware: per-wheel PID, odometry, IMU, ToF lidar | STM32F407, C++ |
 | [Waste Sorting Robot (PC)](https://github.com/altilize/Waste-sorting-robot-PC) | Threaded YOLO detection and mission state machine over serial | Python, ONNX, OpenCV |
-| [Mini Soccer Robot](https://github.com/altilize/mini-soccer-robot) | Gamepad-controlled soccer robot, FIRA RoboWorld Cup 2025 Silver | ESP32, Bluepad32 |
+| [Mini Soccer Robot](https://github.com/altilize/mini-soccer-robot) | Gamepad-controlled soccer robot, FIRA Indonesia Open 2025 Silver | ESP32, Bluepad32 |
 | [Wheel-Based Soccer Robot](https://github.com/altilize/WheelBased-Soccer-Robot-PC) | Dual-camera vision and strategy for a KRSBI-B robot ([firmware](https://github.com/altilize/WheelBased-Soccer-Robot-Microcontroller)) | C++, OpenCV, STM32 |
 | [AgriWand](https://github.com/altilize/AW-GOES-TO-JAPAN) | Handheld soil probe logging GPS-tagged NPK/pH/EC ([analysis dashboard](https://github.com/altilize/TERRA-CORE)) | Raspberry Pi, ESP32-S3, LVGL |
 | [TEKNOFEST Plant-Growth Chamber](https://github.com/altilize/R2C-goes-to-Turkey) | Climate-controlled growth chamber with a Jetson control UI | STM32, Jetson, PyQt |
