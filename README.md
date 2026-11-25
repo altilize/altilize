@@ -1,17 +1,26 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFDA03&width=520&lines=uh+hi+everyone!+I'm+Moses;Embedded+Systems+%7C+Robotics+%7C+Computer+Vision)](https://git.io/typing-svg)
 
-Computer Engineering student at Universitas Kristen Satya Wacana (UKSW), Indonesia. I build robots and embedded systems that combine microcontroller firmware with computer vision.
+### 👨‍💻 About Me
 
-- 🛠️ **Now:** Technical Support Engineer at [Olden Labs](https://www.oldenlabs.com), supporting research labs that use automated home-cage monitoring systems
-- 🤖 **Before:** Firmware & AI Engineer at R2C (Robotics Research Center, UKSW), working on soccer and waste-sorting robots
-- 🔬 **Interests:** STM32 / ESP32 firmware, motion control (PID, holonomic kinematics), YOLO-based vision, IoT
+```python
+class Moses:
+    
+    def __init__(self):
+        self.name = "Moses"
+        self.location = "Salatiga, ID"
+        self.major = "Computer Engineering, Satya Wacana Christian University"
+        self.experience = "ex Firmware & AI Engineer @ R2C (Robotics Research Center)"
+        self.languages = [
+            "C/C++", "Python", "Arduino", "Java", "MatLab", "Linux", "Tensorflow", "Pandas", "OpenCV", "Numpy"
+        ]
+    
+    def __str__(self):
+        return self.name
 
-### 🏆 Highlights
-
-- 🥈 **Silver Medal, FIRA RoboWorld Cup 2025** (Mini Soccer) with team R2C-Tenda
-- 🥇 **1st Place, IoT Tech Competition**, Blue Techno Festival 2025 (Telkom University)
-- 📜 **Registered copyright (DJKI)** for a Smart Mirror system
-- 🎓 **Samsung Innovation Campus Batch 7** (IoT and AI tracks)
+if __name__ == '__main__':
+    me = Moses()
+    print(me)
+```
 
 ### 📌 Featured Projects
 
